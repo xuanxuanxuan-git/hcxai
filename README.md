@@ -29,7 +29,7 @@ This repository hosts source code and data for the XAI user study paper ([Paper 
 
 ### Survey results and analysis
 - This [notebook](survey_analysis.ipynb) contains code for running statistical analysis on the 200 survey responses we collect.
-- This [file](/XAI_user_study_one_scenario_only_response/XAI_user_study_one_scenario_only_August%2028,%202023_12.17.csv) contains the survey responses we collected from 200 participants.
+- This [file](/XAI_user_study_one_scenario_only_response/XAI_user_study_survey_response_data.csv) contains the survey responses we collected from 200 participants.
 
 ### Code Environment
 - To install the packages for running python code, execute
